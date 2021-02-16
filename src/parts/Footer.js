@@ -110,7 +110,7 @@ export default function Footer() {
       </div>
       <div className="border-t pt-8 mt-8 border-gray-800 text-center">
         <p className="text-indigo-500">
-          2020 Copyright Micro by BuildWith Angga. All Rights Reserved
+          2020 Copyright Microservice Web by Aryo Putra. All Rights Reserved
         </p>
       </div>
     </footer>
