@@ -49,7 +49,7 @@ export default function Joined({ history, match }) {
         to="/"
       >
         Start learn
-      </Span>
+      </span>
     </section>
   );
 }
