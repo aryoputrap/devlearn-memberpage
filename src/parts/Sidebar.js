@@ -59,7 +59,7 @@ function Sidebar({ match, history }) {
                   <img
                     className="object-cover w-24 h-24"
                     src={USERS?.avatar}
-                    alt={USERS?.name}
+                    alt="Name"
                   />
                 ) : (
                   <DefaultUser className="fill-indigo-500 w-24 h-24"></DefaultUser>
@@ -73,7 +73,8 @@ function Sidebar({ match, history }) {
             </span>
           </div>
 
-          <ul className="main-menu mt-12">
+          <ul class
+            ="main-menu mt-12">
             <li>
               <Link
                 className={[
